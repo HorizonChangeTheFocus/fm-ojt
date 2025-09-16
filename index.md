@@ -1,6 +1,6 @@
 ---
 layout: default
-title: C#で電卓を作成しよう - トップページ
+title: C#で電卓を作成しよう - ホーム
 ---
 
 - [ホーム](index.md)
