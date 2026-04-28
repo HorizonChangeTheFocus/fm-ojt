@@ -1,13 +1,24 @@
 ---
 layout: default
-title: C#で電卓を作成しよう - ホーム
+title: C言語＋GTK3で電卓を作成しよう - ホーム
 ---
 
 - [ホーム](index.md)
-- [課題](kadai.md)
-- [課題Ex](kadaiEx.md)
+- [課題1](kadai1.md)
+- [課題1Ex](kadai1Ex.md)
+- [課題2](kadai2.md)
+- [課題2Ex](kadai2Ex.md)
 
 ---
+
+# FM2026 研修課題
+
+このOJTでは以下を学びます：
+
+- 課題1: C言語 + GTK3 で電卓を作る
+- 課題2: Angularでカレンダーを作る
+
+## 進め方
 
 - わからないことがあったら、気兼ねなく質問してください。
 - ネット検索は自由に使ってOKです。
